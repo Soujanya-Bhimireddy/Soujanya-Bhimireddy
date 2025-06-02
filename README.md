@@ -1,33 +1,47 @@
-# Hello, I'm Soujanya Bhimireddy 👋
+Hello, I'm Soujanya Bhimireddy 👋
+I'm a dedicated Java Developer with strong skills in backend development, API automation, and manual testing. Welcome to my GitHub profile!
 
-I'm a passionate software developer with a strong enthusiasm for Java and its ecosystem. Welcome to my GitHub profile!
+🌱 About Me
 
-🌱 **About Me:**
-- 💻 I'm currently working on various software projects, exploring different aspects of Java and software development.
-- 🚀 I love to learn and improve my coding skills constantly.
-- 🔍 You can find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/Soujanya-Bhimireddy).
+💼 Currently working at Accenture as a Quality Engineering Associate.
 
-🛠️ **Skills:**
-- Java (Spring Framework, Android)
-- Web Development (HTML, CSS, JavaScript)
-- Version Control (Git)
-- My sql database
-- Problem Solving and Algorithms
+🔧 Hands-on experience in Java, Spring Boot, and RESTful APIs.
 
-💡 **I'm Interested In:**
-- Open source projects
-- Collaboration and knowledge sharing
-- Building and working on projects that make a positive impact
-- java developer positions
+🧪 Skilled in API automation using tools like Postman and RestAssured, along with manual testing practices.
 
-📫 **How to reach me:**
-- LinkedIn: [Soujanya Bhimireddy](https://www.linkedin.com/in/Soujanya-Bhimireddy)
-- Email: [soujanyabhimireddy579@gmail.com]
+🧠 Passionate about improving my technical skills and learning new tools in development and QA.
 
-📊 **GitHub Stats:**
-[![Soujanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)](https://github.com/YourGitHubUsername)
+🛠️ Tech Stack & Skills
 
-🌟 **Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to chat about software development!**
+Languages: Java, SQL, HTML, CSS, JavaScript
 
-Let's connect and create amazing things together! 😄
+Frameworks: Spring Boot, Hibernate
 
+Testing: Manual Testing, API Testing, Selenium, TestNG, Postman, RestAssured
+
+Database: MySQL
+
+Tools: Git, GitHub, JIRA, Agile methodologies
+
+💡 Interests
+
+Java Development
+
+API Automation & Manual Testing
+
+Backend Projects
+
+Quality Engineering
+
+Learning and collaborating on real-world applications
+
+📫 Contact Me
+
+📧 Email: soujanyabhimireddy579@gmail.com
+
+🔗 LinkedIn: Soujanya Bhimireddy
+
+📊 GitHub Stats
+
+🌟 Thank you for visiting!
+Feel free to explore my repositories and reach out for collaboration or discussions around development and testing. 😊
