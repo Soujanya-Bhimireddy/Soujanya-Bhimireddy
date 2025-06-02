@@ -1,4 +1,5 @@
-Hello, I'm Soujanya Bhimireddy 👋
+**Hello, I'm Soujanya Bhimireddy 👋**
+
 I'm a dedicated Java Developer with strong skills in backend development, API automation, and manual testing. Welcome to my GitHub profile!
 
 🌱 About Me
@@ -39,7 +40,7 @@ Learning and collaborating on real-world applications
 
 📧 Email: soujanyabhimireddy579@gmail.com
 
-🔗 LinkedIn: Soujanya Bhimireddy
+🔗 LinkedIn: [Soujanya Bhimireddy](https://www.linkedin.com/in/Soujanya-Bhimireddy)
 
 📊 GitHub Stats
 
